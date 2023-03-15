@@ -16,7 +16,7 @@ namespace NiceProject
 
         private int CalculateSumOf(IEnumerable<int> allNumbers)
         {
-<<<<<<< HEAD
+
             var sum = 0;
             foreach (var number in allNumbers)
             {
@@ -24,7 +24,7 @@ namespace NiceProject
             }
 
             return sum;
->>>>>>> origin/merge-conflict-branch
+
         }
     }
 }
